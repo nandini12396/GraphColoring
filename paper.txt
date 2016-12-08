@@ -1,0 +1,5 @@
+orkut DATA
+USING BARRIERS
+The no of vertices: 4036537
+No of undirected edges: 34681189
+Max Degree: 14815
