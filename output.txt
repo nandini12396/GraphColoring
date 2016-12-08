@@ -1,7 +1,0 @@
-FINE GRAINED LOCKING
-The no of vertices: 4036537
-No of undirected edges: 34681189
-Max Degree: 14815
-No of Threads : 10
-Duration (gettimeofday() function) averaged over 10 runs: 12.3496 secs.
-No of colors used: 331
